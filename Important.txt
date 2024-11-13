@@ -1,0 +1,3 @@
+https://opentdb.com/api_config.php
+
+this is url for opentdb which gives us MCQ questions Data with Other Options As well    
