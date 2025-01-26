@@ -1,7 +1,7 @@
 const fs = require('fs');
 const os = require('os');
-
 const eventEmitter = require('events');
+
 
 class Logger extends eventEmitter {
     log(message) {
